@@ -1,4 +1,4 @@
-1. Prerequisitos
+1. Pre-requisitos
    - Windows 10
 
 2. Instalar Postman app o utilizar la versión web

@@ -1,0 +1,22 @@
+Conclusiones:
+
+- En el API de Crear Usuario se utilizaron Pre-request Scripts con variables globales para almacenar sample data y crear los usuarios sin tener que ingresar la información manualmente.
+  ** Las capturas de pantalla se encuentran en la carpeta "Imagenes" y se puede visualizar en el API request en la pestaña "Pre-request Scripts".
+
+- En cada API request (Crear, Consulta, Actualizar, Borrar) se realizo un test de prueba de respuesta del API. 
+  ** Las capturas de pantalla se encuentran en la carpeta "Imagenes" y se puede visualizar en los API requests en la pestaña "Tests".
+
+- En cada API request (Crear, Consulta, Actualizar, Borrar) se personalizó el orden en el que debe ejecutarse el "Collection Runner"
+  ** Las capturas de pantalla se encuentran en la carpeta "Imagenes" y se puede visualizar en la pestaña "Tests".
+
+- Se utilizó el "Collection Runner" para correr todas las pruebas automatizadas.
+  ** Las capturas de pantalla se encuentran en la carpeta "Imagenes".
+
+- Se exportaron los resultados de la prueba automatizada realizada con el "Collection Runner".
+  ** Los resultados se puede encontrar en la carpeta "Resultados Collection Runner JSON".
+
+- Se realizó capturas de pantalla de cada API request y de resultados del Collection Runner JSON. 
+  ** Las imágenes se puede encontrar en la carpeta "Imagenes".
+
+- Se realizó capturas de pantalla de las variables globales y de las instrucciones de importación del archivo .json
+  ** Las imágenes se puede encontrar en la carpeta "Imagenes".

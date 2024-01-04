@@ -1,0 +1,7 @@
+Conclusiones:
+
+- Automation Testing nos permite validar la funcionalidad de el proceso de compra en linea de manera fácil y rápida.
+
+- Es importante mencionar que el proceso de automatización nos ayuda a revisar y validar una funcionalidad del sitio web,
+  pero se debe tomar en cuenta que es necesaria una revisión manual dado que la navegabilidad, experiencia de usuario y 
+  diseño de la página no se pueden validar solo con la automatización.

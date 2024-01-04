@@ -31,8 +31,8 @@
 
 4. Crear el archivo de compra online
   - En el "Visual Studio Code", vamos a la carpeta que creamos "CompraOnline" (parte izquierda)
-  - Ir al path: cypress/e2e y hacemos click derecho "New File" y creamos un archivo llamado "compraonline.cy.js"
-  - En el archivo "compraonline.cy.js" se encuentra todo el código para generar la prueba de automatización de la compra online.
+  - En el path: CompraOnline\cypress\e2e hacemos click derecho "New File" y creamos un archivo llamado "compraonline.cy.js"
+  - El código para generar la prueba de automatización de la compra online se cuentra en el path: CompraOnline\cypress\e2e\compraonline.cy.js
   - Escribir el comando "npx cypress open"
   - En la ventana de "Welcome to Cypress", se debe seccionar "E2E Testing"
   - Seleccionar "Chrome" y click en el botón "Start E2E Testing in Chrome"

@@ -1,5 +1,5 @@
 1. Pre-requisitos
-   - Windows 10
+   - Windows 10 o superior
 
 2. Instalar Postman app o utilizar la versión web
    - Postman App: descargar el instaldor https://www.postman.com/downloads/
